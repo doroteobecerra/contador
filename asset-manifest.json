@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doroteobecerra/contador.git/static/css/main.c170e59e.css",
+    "main.js": "/doroteobecerra/contador.git/static/js/main.db413ef3.js",
+    "static/js/787.a6e2197e.chunk.js": "/doroteobecerra/contador.git/static/js/787.a6e2197e.chunk.js",
+    "index.html": "/doroteobecerra/contador.git/index.html",
+    "main.c170e59e.css.map": "/doroteobecerra/contador.git/static/css/main.c170e59e.css.map",
+    "main.db413ef3.js.map": "/doroteobecerra/contador.git/static/js/main.db413ef3.js.map",
+    "787.a6e2197e.chunk.js.map": "/doroteobecerra/contador.git/static/js/787.a6e2197e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c170e59e.css",
+    "static/js/main.db413ef3.js"
+  ]
+}
